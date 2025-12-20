@@ -1,7 +1,4 @@
 # Finalprojectphase1
-<<<<<<< HEAD
-
-=======
 Author: Anthony
 # Overview
 I'm working on this project for my company. They're thinking about getting into the aviation business, like buying planes for commercial and private use. But they don't know much about the risks, like which planes have the most accidents or are the safest. My job is to look at this data from the National Transportation Safety Board and figure out which aircraft have the lowest risk.
@@ -20,8 +17,10 @@ Visual Analysis
 # Visualisations
 1. Injury Severity Distribution
 
+![Visual 1]{https://1drv.ms/i/c/7fbf7262b7439b38/IQClEr-XNukMSYHhqKXrREc0AWMl8Egaqky4LcxGjokRxtU?e=d7V2uc}
 Interactive Dashboard
 
+![Dash]{Images/Dashboard 1.png}
 
 # Conclusion
->>>>>>> 1fb6c1ab91bedac372b5dc1bf3ea16a2f22f3953
+
