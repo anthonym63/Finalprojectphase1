@@ -19,8 +19,7 @@ Visual Analysis
 
 Interactive Dashboard
 
-
-![Dash]{"C:\Users\USER\Downloads\final\Images\Visual one.png"}
+![Dash]{Images}
 
 # Conclusion
 
