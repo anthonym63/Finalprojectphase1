@@ -18,7 +18,7 @@ Visual Analysis
 1. Injury Severity Distribution
 
 Interactive Dashboard
-
+Images/Dashboard 1.png
 
 # Conclusion
 
