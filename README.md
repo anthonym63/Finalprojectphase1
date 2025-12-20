@@ -7,7 +7,9 @@ My goal is to figure out which aircraft are the safest for the company to buy. I
 # Data
 I'm using the National Transportation Safety Board Aviation Accident Dataset. 
 - Aviation.Data_csv
+  
 Methods and Exploration
+
 For an indepth analysis of the dataset, the cleaning and analsysis of the datasets was done in a separate notebook project.ipynb as to not make this one long.
 I used two key methods of analysis on the dataset above:
 Descriptive Analysis: I used to aggregate past accident records by aircraft make and model, calculate average risk scores, and rank aircraft to identify those with consistently lower accident severity.
