@@ -19,7 +19,7 @@ Visual Analysis
 
 Interactive Dashboard
 
-https://github.com/anthonym63/Finalprojectphase1/blob/cd46ee3f44a68dd6701ddb6c630cfb094868bf18/Images/Dashboard%201.png
+![Image 1](Images/Dashboard 1.png)
 
 # Conclusion
 
