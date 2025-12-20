@@ -17,9 +17,10 @@ Visual Analysis
 # Visualisations
 1. Injury Severity Distribution
 
+![Visual 1]{https://1drv.ms/i/c/7fbf7262b7439b38/IQClEr-XNukMSYHhqKXrREc0AWMl8Egaqky4LcxGjokRxtU?e=d7V2uc}
 Interactive Dashboard
 
-![Image 1](Images/Dashboard 1.png)
+![Dash]{Images/Dashboard 1.png}
 
 # Conclusion
 
