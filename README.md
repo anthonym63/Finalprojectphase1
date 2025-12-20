@@ -19,7 +19,7 @@ Visual Analysis
 
 Interactive Dashboard
 
-![Dashboard 1]{Dashboard 1.png}
+![Dashboard 1](Images/Dashboard 1.png)
 
 # Conclusion
 
