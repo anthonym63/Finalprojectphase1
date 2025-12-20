@@ -33,6 +33,9 @@ Interactive Dashboard
 
 # Conclusion
 After all the results I can advice the company to:
+
 1.Prioritize aircraft and operations with low fatality exposure
+
 2. Prioritize the top-ranked aircraft for initial purchase
+
 3. Avoid Aircraft with High Severity-to-Accident Ratio
