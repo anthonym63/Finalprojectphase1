@@ -18,9 +18,14 @@ Visual Analysis
 1. Injury Severity Distribution
 
 ![image1](https://github.com/anthonym63/Finalprojectphase1/blob/main/Images/Visual%20one.png)
+
+![image2](https://github.com/anthonym63/Finalprojectphase1/blob/main/Images/Visual%20two.png)
+
+![image](https://github.com/anthonym63/Finalprojectphase1/blob/main/Images/Visual%20three.png)
+
 Interactive Dashboard
 
-[![Dashboard 1](https://github.com/anthonym63/Finalprojectphase1/blob/main/Images/Dashboard%201.png)
+![Dashboard 1](https://github.com/anthonym63/Finalprojectphase1/blob/main/Images/Dashboard%201.png)
 
 # Conclusion
 
