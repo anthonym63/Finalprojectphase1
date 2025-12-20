@@ -19,8 +19,6 @@ Visual Analysis
 
 ![image1](https://github.com/anthonym63/Finalprojectphase1/blob/main/Images/Visual%20one.png)
 
-<img width="457" height="278" alt="image" src="https://github.com/user-attachments/assets/7d27cef7-5bdc-49ea-a793-154a95a16770" />
-
 2. Top 10 Aircraft by Lowest Risk Score
 
 ![image2](https://github.com/anthonym63/Finalprojectphase1/blob/main/Images/Visual%20two.png)
