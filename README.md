@@ -18,8 +18,10 @@ Visual Analysis
 1. Injury Severity Distribution
 
 ![image1](https://github.com/anthonym63/Finalprojectphase1/blob/main/Images/Visual%20one.png)
+2. Top 10 Aircraft by Lowest Risk Score
 
 ![image2](https://github.com/anthonym63/Finalprojectphase1/blob/main/Images/Visual%20two.png)
+3. Accident Count by Aircraft Category
 
 ![image](https://github.com/anthonym63/Finalprojectphase1/blob/main/Images/Visual%20three.png)
 
