@@ -18,9 +18,11 @@ Visual Analysis
 1. Injury Severity Distribution
 
 ![image1](https://github.com/anthonym63/Finalprojectphase1/blob/main/Images/Visual%20one.png)
+
 2. Top 10 Aircraft by Lowest Risk Score
 
 ![image2](https://github.com/anthonym63/Finalprojectphase1/blob/main/Images/Visual%20two.png)
+
 3. Accident Count by Aircraft Category
 
 ![image](https://github.com/anthonym63/Finalprojectphase1/blob/main/Images/Visual%20three.png)
@@ -30,4 +32,7 @@ Interactive Dashboard
 ![Dashboard 1](https://github.com/anthonym63/Finalprojectphase1/blob/main/Images/Dashboard%201.png)
 
 # Conclusion
-
+After all the results I can advice the company to:
+1.Prioritize aircraft and operations with low fatality exposure
+2. Prioritize the top-ranked aircraft for initial purchase
+3. Avoid Aircraft with High Severity-to-Accident Ratio
